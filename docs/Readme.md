@@ -1,12 +1,12 @@
 # Codigram
-## **Introduction**
+## Introduction
 * This is a practice project which will resembles instagram with some custom functionalities .
 * In this project we can use following  functionalitie.
    * React : For the front-hand development.
    * React Hooks - These are the major component of the project .
    * Socket.io (Optional) - To send messages and making a team and broadcast the message .
-## **Architecture**
-#### **Website :**
+## Architecture
+#### Website :
 
 * This is a social media web application in which user can do following things :
 * User can create/login (if already exist) its account .
@@ -16,19 +16,19 @@
 * User can upload/delete/edit post.
 
 
-## **API :**
+## API :
 * REST api's will be used as they are very fast and stateless protocol based
-## **Datebase**
+## Datebase
 * In this project mongoDB is used as a database which is accessed using api calls .
 * MongoDB is the best suitable database that is used because the structure of the data from the social media web applications are not very precise and hence has no specific structure .
 * As this is a document based database this is the best database for this usecase .
-## **Image Storage :**
+## Image Storage :
 * Image storage is done on a very popular platform Cloudinary which is done again using api calls .
-## **Timeline/Milestone**
+## Timeline/Milestone
 
-## **License:**
+## License:
 * MIT
-## **Contact Information**
+## Contact Information
 * Email-id: [shivampandey07422@gmail.com]()
 * GitHUb : [https://github.com/shivampandey041]()
 
