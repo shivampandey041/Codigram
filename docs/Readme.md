@@ -1,4 +1,4 @@
-# Codigram
+# 👉Codigram👈
 ## Introduction
 * This is a practice project which will resembles instagram with some custom functionalities.
 * In this project we can use following  functionalitie.
