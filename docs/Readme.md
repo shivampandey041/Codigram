@@ -1,6 +1,6 @@
 # Codigram
 ## Introduction
-* This is a practice project which will resembles instagram with some custom functionalities .
+* This is a practice project which will resembles instagram with some custom functionalities.
 * In this project we can use following  functionalitie.
    * React : For the front-hand development.
    * React Hooks - These are the major component of the project .
