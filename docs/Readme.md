@@ -1,4 +1,5 @@
 # Codigram
+```javascript
 ## Introduction
 * This is a practice project which will resembles instagram with some custom functionalities .
 * In this project we can use following  functionalitie.
@@ -14,6 +15,7 @@
 * User can message any of the followers or followings .
 * User can follow someone .
 * User can upload/delete/edit post.
+```
 ## API :
 * REST api's will be used as they are very fast and stateless protocol based
 ## Datebase
