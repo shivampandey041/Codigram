@@ -22,5 +22,11 @@
 * As this is a document based database this is the best database for this usecase .
 ## Image Storage :
 * Image storage is done on a very popular platform Cloudinary which is done again using api calls .
+## Timeline/Milestone
+
+## License:
+* License
+## Contact Information
+* Email-id: [shivampandey07422@gmail.com]()
 
     
