@@ -27,7 +27,7 @@
 ## Timeline/Milestone
 
 ## License:
-* License
+* MIT
 ## Contact Information
 * Email-id: [shivampandey07422@gmail.com]()
 * GitHUb : [https://github.com/shivampandey041]()
